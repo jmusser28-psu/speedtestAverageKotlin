@@ -50,7 +50,6 @@ fun main() {
                         else {
                             lineScnr.next()
                         }
-
                     }
                 }
 
