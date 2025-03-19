@@ -1,0 +1,10 @@
+Yet another rewrite of my speedtest average calculator, this time in Kotlin
+
+Original in Java with GUI:
+https://github.com/jmusser28/speedtest-analyzer
+
+Original in Java CLI:
+https://github.com/jmusser28/speedtest-analyzer-cli
+
+Attempted Rewrite in Python
+https://github.com/jmusser28-psu/speedtestAverage
